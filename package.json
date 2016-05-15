@@ -1,0 +1,24 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "Learning Single Page Application (SPA)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mussealani/spa.git"
+  },
+  "author": "Mohamad Rashid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mussealani/spa/issues"
+  },
+  "homepage": "https://github.com/mussealani/spa#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
